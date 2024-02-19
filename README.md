@@ -5,8 +5,4 @@
 - 🤔 I’m looking for help with gameDAO and zero network
 - 💬 Ask me about building compliant organisations using DAO like governance in Europe
 
-I'm currently working on [Libp2p](https://libp2p.io/)
-
-My general interests are in permissionless peer-to-peer networks, distributed systems and [Local-first software](https://www.inkandswitch.com/local-first/).
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2075&show_icons=true&theme=synthwave)
