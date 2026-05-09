@@ -14,15 +14,15 @@ Based in Switzerland, building across CH / LI / DE.
 - LISBET e.G. — early EV production cooperative
 - Various larger community / gaming platforms
 
-**Interests**
+**Interests**<br/>
 Neuroscience · complex systems · permissionless infrastructure · privacy
 Rust · Elixir · RISC-V · retro hardware · self-hosted everything
 
-**Open to**
+**Open to**<br/>
 Collaboration on open-source, privacy-preserving systems in gaming and finance.
 Hardware projects welcome.
 
-**Ask me about**
+**Ask me about**<br/>
 DAO-style governance under European frameworks (LI foundations, pre-MiCA, CH VASP).
 
 ---
